@@ -1,0 +1,22 @@
+{
+    "id": "1",
+    "plc_station": "station 1",
+    "plc_status": "Ok",
+    "raspberry_mac_address": "ee-00-yy-11-22-33",
+    "company_name" : "",
+    "whatsapp_phone_1" : "",
+    "whatsapp_phone_1_name" : "",
+    "whatsapp_phone_1_position" : "programmer",
+    "whatsapp_phone_2" : "",
+    "whatsapp_phone_2_name" : "",
+    "whatsapp_phone_2_position" : "programmer",
+    "whatsapp_phone_3" : "",
+    "whatsapp_phone_3_name" : "",
+    "whatsapp_phone_3_position" : "programmer",
+    "whatsapp_phone_4" : "",
+    "whatsapp_phone_4_name" : "",
+    "whatsapp_phone_4_position" : "programmer",
+    "whatsapp_phone_5" : "",
+    "whatsapp_phone_5_name" : "",
+    "whatsapp_phone_5_position" : "programmer"
+}
